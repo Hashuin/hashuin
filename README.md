@@ -1,62 +1,42 @@
-# 👋 Hi, I'm Hashuin (Jossyr Rafael Pinto)
+# 👋 Hello World, I'm Jossyr Rafael Pinto
 
-🎓 **Systems and Computer Engineer** with strong skills in **Front-End**, **Mobile Development**, and **Web Technologies**.  
-💼 Passionate about building scalable, user-friendly applications using modern frameworks and cloud technologies.  
-🚀 I enjoy exploring clean architecture, UI/UX best practices, and staying up-to-date with emerging technologies.
-
----
-
-### 🌐 Portfolio
-
-Check out my personal portfolio:  
-👉 [https://jossyrpinto.netlify.app](https://jossyrpinto.netlify.app)
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/713e190e-abf2-4bf1-b991-0b526a0e476a/deploy-status)](https://app.netlify.com/projects/jossyrpinto/deploys)
+🎓 **Systems and Computer Engineer**  
+💻 Passionate about **Front-End**, **Mobile App Development (Flutter)**, and **Modern Web Technologies**.  
+🚀 I enjoy working with clean architecture, scalable apps, and collaborative agile environments.
 
 ---
 
-### 🧠 Skills & Tools
+### 🧰 My Favorite Tools
 
-#### 👨‍💻 Front-End
-- HTML5, CSS3, JavaScript, TypeScript
-- Angular, React, Next.js
-- Responsive Design, TailwindCSS
-
-#### 📱 Mobile Development
-- Flutter (Android & iOS)
-- Firebase (Auth, Firestore, Cloud Functions)
-
-#### 🖥️ Back-End & APIs
-- Node.js, Django
-- RESTful APIs,
-- GraphQL (basic experience)
-- MongoDB, Firebase Realtime DB
-
-#### 📊 Other Tools & Tech
-- Git & GitHub
-- Google Analytics
-- Agile Methodologies (Scrum, Kanban)
-- CI/CD and deployment with Netlify
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
-### 💡 Interests
+### 📊 GitHub Stats
 
-- Mobile-first and Progressive Web Apps  
-- Clean code and scalable architecture  
-- UI/UX Design principles  
-- Automation and productivity tools  
-
----
-
-### 📫 Let's Connect
-
-Feel free to reach out or connect:
-
-- 🌐 [Portfolio](https://jossyrpinto.netlify.app)
-- 💼 [LinkedIn](https://www.linkedin.com/in/tu-linkedin)
-- 📨 Email: tu-correo@email.com *(opcional)*
+<!-- Puedes reemplazar tu nombre de usuario aquí -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hashuin&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hashuin&layout=compact&theme=tokyonight)
 
 ---
 
-⭐ Always open to collaboration, freelance work, or tech discussions!
+### 📫 Contact Me
+
+[![Portfolio](https://img.shields.io/badge/-Website-000?style=flat&logo=vercel&logoColor=white)](https://jossyrpinto.netlify.app)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-linkedin)  
+[![Email](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail)]()
