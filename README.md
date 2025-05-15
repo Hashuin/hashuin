@@ -30,9 +30,5 @@
 
 ### 📫 Contact Me
 
-[![Netlify](https://img.shields.io/badge/Website-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)](https://jossyrpinto.netlify.app)   
-&nbsp;&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jossyr-pinto/)
-&nbsp;&nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jossyrpin@gmail.com)
+[![Netlify](https://img.shields.io/badge/Website-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)](https://jossyrpinto.netlify.app) &nbsp;&nbsp;&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jossyr-pinto/) &nbsp;&nbsp;&nbsp; [![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jossyrpin@gmail.com)
 
