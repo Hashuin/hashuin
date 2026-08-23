@@ -20,14 +20,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<!-- Puedes reemplazar tu nombre de usuario aquí -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hashuin&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hashuin&layout=compact&theme=tokyonight)
-
----
-
 ### 📫 Contact Me
 
 [![Netlify](https://img.shields.io/badge/Website-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)](https://jossyrpinto.netlify.app) &nbsp;&nbsp;&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jossyr-pinto/) &nbsp;&nbsp;&nbsp; [![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jossyrpin@gmail.com)
